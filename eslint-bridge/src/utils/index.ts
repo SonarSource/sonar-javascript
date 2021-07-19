@@ -27,5 +27,6 @@ export * from './utils-location';
 export * from './utils-module';
 export * from './utils-parent';
 export * from './utils-parsing';
+export * from './utils-regex';
 export * from './utils-type';
 export * from './utils-visitor';
